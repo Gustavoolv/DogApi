@@ -1,0 +1,34 @@
+{
+    "racas": [
+        { 
+            "id": 1, 
+            "nome": "Spitz Alemão", 
+            "url": "https://i0.statig.com.br/bancodeimagens/au/he/d9/auhed9d4lmlsxojaudoqchnw3.jpg", 
+            "descrição": "O Spitz Alemão é uma raça de cães de porte pequeno a médio, com uma aparência distinta devido ao seu corpo compacto, orelhas pontudas e uma cauda emplumada que se enrola sobre o dorso. Eles possuem um denso e fofo subpelo, com uma pelagem externa espessa que pode ser branca, preta, marrom ou cinza. Conhecidos por sua expressão alerta e atitude confiante, os Spitz Alemães são animais inteligentes, afetuosos e enérgicos, que adoram estar no centro das atenções."
+        },
+        { 
+            "id": 2, 
+            "nome": "Rottweiler", 
+            "url": "https://i0.statig.com.br/bancodeimagens/di/we/f2/diwef205exmzpxvbdn98l3etk.jpg",
+            "descrição": "O Rottweiler é uma raça de porte médio a grande, reconhecida por sua robustez e musculatura impressionante. Com uma cabeça larga e poderosa, o Rottweiler tem uma expressão confiante e determinada. Sua pelagem é curta e densa, geralmente preta com marcações castanhas bem definidas nas pernas, peito, focinho e sobrancelhas. Apesar de sua aparência imponente, os Rottweilers são conhecidos por serem leais, corajosos e dedicados à família, além de serem excelentes cães de guarda."
+        },
+        { 
+            "id": 3, 
+            "nome": "Boston Terrier", 
+            "url": "https://i0.statig.com.br/bancodeimagens/c8/2s/6z/c82s6z6xf8fjpr1k39nzl6sl2.jpg",
+            "descrição":"O Boston Terrier é uma raça de porte pequeno, caracterizada por sua cabeça quadrada, orelhas eretas e expressão amigável. Sua pelagem é curta, lisa e brilhante, geralmente com uma combinação de preto e branco, embora também possa apresentar tonalidades de marrom. Com uma personalidade vibrante e extrovertida, os Boston Terriers são cães inteligentes, leais e cheios de energia. Eles adoram interagir com suas famílias e são ótimos companheiros para pessoas de todas as idades."
+        },
+        { 
+            "id": 4, 
+            "nome": "Bulldog Francês", 
+            "url": "https://i0.statig.com.br/bancodeimagens/cd/xb/o2/cdxbo2r0bsuvl9rggcthq5sg7.jpg",
+            "descrição": "O Bulldog Francês é uma raça de porte pequeno a médio, conhecida por sua aparência distintiva, com uma cabeça larga, orelhas grandes e olhos expressivos. Sua pelagem é curta e macia, com uma variedade de cores, incluindo fulvo, tigrado e branco com manchas. Apesar de sua aparência robusta, os Bulldogs Franceses são cães dóceis, afetuosos e sociáveis, que adoram passar tempo com suas famílias. Eles são excelentes companheiros e se dão bem em ambientes urbanos devido ao seu tamanho compacto e temperamento calmo." 
+        },
+        { 
+            "id": 5, 
+            "nome": "Samoeida", 
+            "url": "https://i0.statig.com.br/bancodeimagens/an/7i/e2/an7ie2sbobu61ltv4hmby20c2.jpg", 
+            "descrição": "O Samoeida é uma raça de porte médio, conhecida por sua pelagem exuberante e sorriso característico. Com uma aparência majestosa, o Samoeida possui uma pelagem dupla, com um subpelo denso e uma camada externa longa e branca, que cria uma aparência de colarinho ao redor do pescoço e um visual elegante e imponente. Conhecidos por sua natureza amigável e gentil, os Samoyedos são cães extrovertidos, sociáveis e altamente leais à sua família. Eles adoram estar perto de pessoas e são excelentes companheiros para famílias ativas."
+        }
+    ]
+}
